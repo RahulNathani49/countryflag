@@ -1,0 +1,44 @@
+ html,
+        body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+
+        }
+
+        .main {
+            height: 600px;
+            width: 800px;
+            position: absolute;
+            margin: auto;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+        }
+
+        .f1 {
+            height: 200px;
+            width: 800px;
+            background-color: orange;
+        }
+
+        .f2 {
+            height: 200px;
+            width: 800px;
+            background-color: antiquewhite;
+        }
+
+        .f3 {
+            height: 200px;
+            width: 800px;
+            background-color: green;
+        }
+
+        .black {
+            background-color:darkblue;
+            height: 200px;
+            width: 200px;
+            margin: auto;
+            border-radius: 50%;
+        }
