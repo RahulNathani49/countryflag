@@ -1,0 +1,26 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.top{
+    width: 33.33%;
+    height: 100%;
+    background-color: orangered;
+    position: absolute;
+}
+.middle{
+    width: 33.33%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    left: 33.33%;
+}
+.bottom{
+    width: 33.33%;
+    height: 100%;
+    background-color: green;
+    position: absolute;
+    left: 66.66%;
+}
+
